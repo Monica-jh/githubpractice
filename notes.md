@@ -1,2 +1,1 @@
-mode ; dark
-mode ; auto
+local : 1
